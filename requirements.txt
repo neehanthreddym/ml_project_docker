@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+# xgboost    <-- Commenting out for the deployment environment
+# catboost
+dill
+Flask
+# -e .
