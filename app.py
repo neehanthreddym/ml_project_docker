@@ -37,4 +37,4 @@ def predict_():
         return render_template('home.html', results=formatted_result)
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0", port=8080)
+    app.run(host='0.0.0.0', port=8080)
