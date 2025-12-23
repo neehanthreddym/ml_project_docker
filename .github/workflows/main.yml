@@ -8,6 +8,7 @@ on:
             - main
         paths-ignore:
             - 'README.md'
+            - 'LICENSE'
 
 # Permissions: access permissions required by GitHub Actions to interact with the repository
 permissions:
